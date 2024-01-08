@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.5c4dbe5d.css",
+    "main.js": "/resume/static/js/main.b2247681.js",
+    "static/js/787.d4aba7ab.chunk.js": "/resume/static/js/787.d4aba7ab.chunk.js",
+    "static/media/top-view-agenda-glasses-pencil.jpg": "/resume/static/media/top-view-agenda-glasses-pencil.b31e63807883068d60d0.jpg",
+    "static/media/14620625_5492342.svg": "/resume/static/media/14620625_5492342.4014f9ad49c3e0778b91.svg",
+    "index.html": "/resume/index.html",
+    "main.5c4dbe5d.css.map": "/resume/static/css/main.5c4dbe5d.css.map",
+    "main.b2247681.js.map": "/resume/static/js/main.b2247681.js.map",
+    "787.d4aba7ab.chunk.js.map": "/resume/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c4dbe5d.css",
+    "static/js/main.b2247681.js"
+  ]
+}
