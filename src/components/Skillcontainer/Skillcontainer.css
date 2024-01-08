@@ -1,0 +1,40 @@
+.skillcontainer{
+    background: url(c:\Users\sssur\Downloads\14620625_5492342.svg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+.skillcontainer_text{
+  color: white;
+  margin-top: 100px;
+  margin-left: 50px;
+  flex: 0.6;
+  max-width: 700px;
+  
+}
+.container{
+    display: flex;
+    font-family: poppins;
+}
+
+
+.skillcontainer_slider>.css-5xe99f-MuiLinearProgress-bar1{
+    background-color: #F4CE14 !important;
+}
+
+
+.skillcontainer_name>h5{
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.skillcontainer_name>.skillcontainer_slider>.css-5xe99f-MuiLinearProgress-bar1{
+    background-color: #F4CE14 !important;
+}
